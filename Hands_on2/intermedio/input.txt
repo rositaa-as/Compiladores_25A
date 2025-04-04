@@ -1,0 +1,5 @@
+int main() {
+    int variable1=2;
+    //int variable2=0;
+    return 100;
+}

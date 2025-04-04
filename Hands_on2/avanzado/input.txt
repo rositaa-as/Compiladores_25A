@@ -1,0 +1,6 @@
+int main() {
+    int variable1=2;
+    printf("Hello World");
+    //int variable2=0;
+    return 100;
+}
