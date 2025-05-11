@@ -1,0 +1,12 @@
+{
+  int a;
+  a = b;
+  func f(x, y) {
+    int z;
+    x = 1;
+  }
+  func f(x, y) { }
+  f(1);
+  g();
+  return a;
+}
